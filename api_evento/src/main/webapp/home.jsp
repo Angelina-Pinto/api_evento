@@ -44,6 +44,7 @@
         <h2>Menú</h2>
         <a href="nuevoEvento.jsp">Registro de Nuevo Evento</a>
         <a href="listClient.jsp">Mis Clientes</a> <!-- Opción agregada -->
+        <a href="listEvento.jsp">Lista de eventos</a> <!-- Opción agregada -->
          <a href="categoriaEvento.jsp">Categorias de eventos</a> <!-- Opción agregada -->
           <a href="tipoEspacio.jsp">Tipos de espacios</a> <!-- Opción agregada -->
         <a href="lugar.jsp">lugares</a> <!-- Opción agregada -->
